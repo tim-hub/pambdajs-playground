@@ -1,0 +1,29 @@
+{
+  "name": "pambda.js-playground",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tim-hub/pambda.js-playground.git"
+  },
+  "keywords": [
+    "pamda.js",
+    "parallel",
+    "mulri-processor"
+  ],
+  "author": "tim-hub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tim-hub/pambda.js-playground/issues"
+  },
+  "homepage": "https://github.com/tim-hub/pambda.js-playground#readme",
+  "dependencies": {
+    "pambdajs": "1.0.0-alpha.1"
+  }
+}
