@@ -1,6 +1,5 @@
 import fs from 'fs';
 
-
 export const getData = (filePath) => {
   let thePath = '';
   if (filePath) {
