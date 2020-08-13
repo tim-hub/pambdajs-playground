@@ -6,14 +6,14 @@ import ObjectsToCsv from 'objects-to-csv';
 const cb = (x) => {
   // this is a heavy work
   let sum = 0;
-  for (let i = 0; i < 100000; i++) {
+  for (let i = 0; i < 1000; i++) {
     sum += i;
   }
   return sum;
 }
 
 
-export const sum100k = async () => {
+export const sum1k = async () => {
   const processCount = cpus().length * 2;
   const results = [];
   for (let length of arrayLengths) {
@@ -37,5 +37,5 @@ export const sum100k = async () => {
     results.push(result);
   }
   const csv = new ObjectsToCsv(results);
-  await csv.toDisk('./100k.csv');
+  await csv.toDisk('./1k.csv');
 }
