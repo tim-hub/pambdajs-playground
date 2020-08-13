@@ -1,0 +1,7 @@
+id,Process Single,Process Count 1,Process Count 2,Process Count 3,Process Count 4,Process Count 5,Process Count 6,Process Count 7,Process Count 8,Process Count 9,Process Count 10,Process Count 11,Process Count 12,Process Count 13,Process Count 14,Process Count 15,Process Count 16,Process Count 17,Process Count 18,Process Count 19,Process Count 20,Process Count 21,Process Count 22,Process Count 23,Process Count 24
+1,0,40,39,39,38,37,46,48,45,46,51,49,49,50,48,45,43,44,45,45,44,44,44,45,44
+10,2,47,49,54,59,65,69,86,89,91,117,119,122,118,112,118,108,99,106,119,115,121,117,119,113
+100,1,48,48,52,59,64,69,84,108,121,131,154,125,196,185,185,182,172,209,204,217,226,232,269,264
+1000,7,58,54,56,60,68,72,90,88,124,123,134,141,141,149,202,195,240,220,201,221,222,276,262,259
+10000,58,96,74,75,77,80,81,98,121,113,139,141,157,159,181,189,210,195,223,241,231,250,265,268,258
+100000,511,630,360,283,239,222,224,264,247,235,252,260,255,295,305,298,302,321,324,343,394,337,399,383,400
